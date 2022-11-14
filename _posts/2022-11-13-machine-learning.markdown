@@ -4,6 +4,7 @@ title: Machine Learning
 date: 2022-11-13
 categories: machine learning
 ---
+
 Initially, computers were used to the run programs or specific set of the instruction which basically are pre-defined by a programmer. Programs are written in the higher level languages by programmers, compiled down to binary code by operating systems to run set of instructions.
 
 Eventually, this lead to new descipline of computer science called “Artificial Intelligence”. Artificial Intelligence is field of computer science which deals with theory and development of computer systems and programs which allow to perform tasks which normally requires human intelligence. Machine learning is th sub-category of the Artifiical Intelligence. In my mind, AI is higher level abstraction and Machine learning is one the implementation for AI.
