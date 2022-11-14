@@ -23,8 +23,8 @@ email: akashnacharya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   It is the blog which will give you an idea for best practices for web development, machine learning, cyber security. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/anachary/LogicalProgrammer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: anachary
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 github_username:  anachary
 
 # Build settings
